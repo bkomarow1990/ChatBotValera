@@ -1,0 +1,12 @@
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\bin\Debug\ChatBotValeraServer.exe.config
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\bin\Debug\ChatBotValeraServer.exe
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\bin\Debug\ChatBotValeraServer.pdb
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\bin\Debug\EntityFramework.dll
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\bin\Debug\EntityFramework.xml
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\obj\Debug\ChatBotValeraServer.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\obj\Debug\ChatBotValeraServer.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\obj\Debug\ChatBotValeraServer.csproj.CopyComplete
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\obj\Debug\ChatBotValeraServer.exe
+C:\Users\Igor\source\repos\ChatBotValera\ChatBotValeraServer\obj\Debug\ChatBotValeraServer.pdb
